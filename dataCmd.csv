@@ -216,4 +216,44 @@ Copernicus monthly MY;model;Nitrate;MED;;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-nu
 Copernicus daily MY (10% of nitrate);model;Ammonium;MED;;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-nut-rean-d;;;;;xxx;4.0;01/01/1993;30/05/2023;marineCopernicus;no3;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_BGC_006_008/description;0.0;;;NetCDF;;;;;;daily;1.4;;;Copernicus;Copernicus
 Copernicus monthly MY (10% of nitrate);model;Ammonium;MED;;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-nut-rean-m;;;;;xxx;4.0;01/01/1993;30/04/2023;marineCopernicus;no3;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_BGC_006_008/description;0.0;;;NetCDF;;;;;;monthly;1.4;;;Copernicus;Copernicus
 Copernicus daily MY;model;Ammonium;MED;;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-nut-rean-d;;;;;xxx;4.0;01/01/1993;30/05/2023;marineCopernicus;nh4;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_BGC_006_008/description;0.0;;;NetCDF;;;;;;daily;14.0;;;Copernicus;Copernicus
-Copernicus monthly MY;model;Ammonium;MED;;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-nut-rean-m;;;;;xxx;4.0;01/01/1993;30/04/2023;marineCopernicus;
+Copernicus monthly MY;model;Ammonium;MED;;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-nut-rean-m;;;;;xxx;4.0;01/01/1993;30/04/2023;marineCopernicus;nh4;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_BGC_006_008/description;0.0;;;NetCDF;;;;;;monthly;14.0;;;Copernicus;Copernicus
+Copernicus daily MY;model;Chlorophyll-a;MED;;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-pft-rean-d;;;;;xxx;4.0;01/01/1993;30/05/2023;marineCopernicus;chl;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_BGC_006_008/description;0.0;;;NetCDF;;;;;;daily;;;;Copernicus;Copernicus
+Copernicus monthly MY;model;Chlorophyll-a;MED;;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-pft-rean-m;;;;;xxx;4.0;01/01/1993;30/04/2023;marineCopernicus;chl;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_BGC_006_008/description;0.0;;;NetCDF;;;;;;monthly;;;;Copernicus;Copernicus
+Copernicus daily MY;model;Phosphate;MED;;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-nut-rean-d;;;;;xxx;4.0;01/01/1993;30/05/2023;marineCopernicus;po4;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_BGC_006_008/description;0.0;;;NetCDF;;;;;;daily;14.0;;;Copernicus;Copernicus
+Copernicus monthly MY;model;Phosphate;MED;;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-nut-rean-m;;;;;xxx;4.0;01/01/1993;30/04/2023;marineCopernicus;po4;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_BGC_006_008/description;0.0;;;NetCDF;;;;;;monthly;14.0;;;Copernicus;Copernicus
+Copernicus daily MY;model;Temperature;MED;;MEDSEA_MULTIYEAR_PHY_006_004;med-cmcc-tem-rean-d;;;;;xxx;4.0;01/01/1993;30/05/2023;marineCopernicus;thetao;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_PHY_006_004/description;0.0;;;NetCDF;;;;;;daily;;;;Copernicus;Copernicus
+Copernicus monthly MY;model;Temperature;MED;;MEDSEA_MULTIYEAR_PHY_006_004;med-cmcc-tem-rean-m;;;;;xxx;4.0;01/01/1993;30/04/2023;marineCopernicus;thetao;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_PHY_006_004/description;0.0;;;NetCDF;;;;;;monthly;;;;Copernicus;Copernicus
+Copernicus daily MY;model;eastward_Water_current;MED;;MEDSEA_MULTIYEAR_PHY_006_004;med-cmcc-cur-rean-d;;;;;xxx;4.0;01/01/1993;30/05/2023;marineCopernicus;thetao;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_PHY_006_004/description;0.0;;;NetCDF;;;;;;daily;86400.0;;;Copernicus;Copernicus
+Copernicus daily MY;model;northward_Water_current;MED;;MEDSEA_MULTIYEAR_PHY_006_004;med-cmcc-cur-rean-d;;;;;xxx;4.0;01/01/1993;30/05/2023;marineCopernicus;thetao;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_PHY_006_004/description;0.0;;;NetCDF;;;;;;daily;86400.0;;;Copernicus;Copernicus
+Copernicus monthly MY;model;eastward_Water_current;MED;;MEDSEA_MULTIYEAR_PHY_006_004;med-cmcc-cur-rean-m;;;;;xxx;4.0;01/01/1993;30/04/2023;marineCopernicus;thetao;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_PHY_006_004/description;0.0;;;NetCDF;;;;;;monthly;86400.0;;;Copernicus;Copernicus
+Copernicus monthly MY;model;northward_Water_current;MED;;MEDSEA_MULTIYEAR_PHY_006_004;med-cmcc-cur-rean-m;;;;;xxx;4.0;01/01/1993;30/04/2023;marineCopernicus;thetao;https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_PHY_006_004/description;0.0;;;NetCDF;;;;;;monthly;86400.0;;;Copernicus;Copernicus
+NASA Ocean Colour 2020, filled;sat;par;BS;;;/media/global/PAR_ref_OC_2020_new.nc;;;;;;;01/01/2020;31/12/2020;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2021, filled;sat;par;BS;;;/media/global/PAR_ref_OC_2021_new.nc;;;;;;;01/01/2021;31/12/2021;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2022, filled;sat;par;BS;;;/media/global/PAR_ref_OC_2022_new.nc;;;;;;;01/01/2022;31/12/2022;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2023, filled;sat;par;BS;;;/media/global/PAR_ref_OC_2023_new.nc;;;;;;;01/01/2023;31/12/2023;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2024, filled;sat;par;BS;;;/media/global/PAR_ref_OC_2024_new.nc;;;;;;;01/01/2024;31/12/2024;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2020, filled;sat;par;NWS;;;/media/global/PAR_ref_OC_2020_new.nc;;;;;;;01/01/2020;31/12/2020;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2021, filled;sat;par;NWS;;;/media/global/PAR_ref_OC_2021_new.nc;;;;;;;01/01/2021;31/12/2021;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2022, filled;sat;par;NWS;;;/media/global/PAR_ref_OC_2022_new.nc;;;;;;;01/01/2022;31/12/2022;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2023, filled;sat;par;NWS;;;/media/global/PAR_ref_OC_2023_new.nc;;;;;;;01/01/2023;31/12/2023;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2024, filled;sat;par;NWS;;;/media/global/PAR_ref_OC_2024_new.nc;;;;;;;01/01/2024;31/12/2024;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2020, filled;sat;par;Baltic;;;/media/global/PAR_ref_OC_2020_new.nc;;;;;;;01/01/2020;31/12/2020;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2021, filled;sat;par;Baltic;;;/media/global/PAR_ref_OC_2021_new.nc;;;;;;;01/01/2021;31/12/2021;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2022, filled;sat;par;Baltic;;;/media/global/PAR_ref_OC_2022_new.nc;;;;;;;01/01/2022;31/12/2022;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2023, filled;sat;par;Baltic;;;/media/global/PAR_ref_OC_2023_new.nc;;;;;;;01/01/2023;31/12/2023;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2024, filled;sat;par;Baltic;;;/media/global/PAR_ref_OC_2024_new.nc;;;;;;;01/01/2024;31/12/2024;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2020, filled;sat;par;Arctic;;;/media/global/PAR_ref_OC_2020_new.nc;;;;;;;01/01/2020;31/12/2020;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2021, filled;sat;par;Arctic;;;/media/global/PAR_ref_OC_2021_new.nc;;;;;;;01/01/2021;31/12/2021;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2022, filled;sat;par;Arctic;;;/media/global/PAR_ref_OC_2022_new.nc;;;;;;;01/01/2022;31/12/2022;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2023, filled;sat;par;Arctic;;;/media/global/PAR_ref_OC_2023_new.nc;;;;;;;01/01/2023;31/12/2023;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2024, filled;sat;par;Arctic;;;/media/global/PAR_ref_OC_2024_new.nc;;;;;;;01/01/2024;31/12/2024;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2020, filled;sat;par;IBI;;;/media/global/PAR_ref_OC_2020_new.nc;;;;;;;01/01/2020;31/12/2020;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2021, filled;sat;par;IBI;;;/media/global/PAR_ref_OC_2021_new.nc;;;;;;;01/01/2021;31/12/2021;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2022, filled;sat;par;IBI;;;/media/global/PAR_ref_OC_2022_new.nc;;;;;;;01/01/2022;31/12/2022;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2023, filled;sat;par;IBI;;;/media/global/PAR_ref_OC_2023_new.nc;;;;;;;01/01/2023;31/12/2023;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2024, filled;sat;par;IBI;;;/media/global/PAR_ref_OC_2024_new.nc;;;;;;;01/01/2024;31/12/2024;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2020, filled;sat;par;MED;;;/media/global/PAR_ref_OC_2020_new.nc;;;;;;;01/01/2020;31/12/2020;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2021, filled;sat;par;MED;;;/media/global/PAR_ref_OC_2021_new.nc;;;;;;;01/01/2021;31/12/2021;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2022, filled;sat;par;MED;;;/media/global/PAR_ref_OC_2022_new.nc;;;;;;;01/01/2022;31/12/2022;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2023, filled;sat;par;MED;;;/media/global/PAR_ref_OC_2023_new.nc;;;;;;;01/01/2023;31/12/2023;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
+NASA Ocean Colour 2024, filled;sat;par;MED;;;/media/global/PAR_ref_OC_2024_new.nc;;;;;;;01/01/2024;31/12/2024;;par;;;;;NetCDF;;;;;;monthly;11.574;;;;Reference
